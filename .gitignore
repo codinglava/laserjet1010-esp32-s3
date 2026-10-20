@@ -1,0 +1,10 @@
+.pio
+.vscode
+.DS_Store
+__pycache__/
+*.pyc
+.env
+src/wifi_secret.h
+*.bin
+*.elf
+*.map
